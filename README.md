@@ -1,6 +1,7 @@
 # CodeX Energy Drink Market Analysis
 ## Unlocking Consumer Insights to Drive Business Growth <br/>
-<p>🏆 Situation: CodeX’s Challenge in a Competitive Market <br/>  
+<p>🏆 Situation:  <br/> 
+CodeX’s Challenge in a Competitive Market <br/>  
 As CodeX, a German beverage brand, enters the Indian energy drink market, competition is fierce. Established players dominate retail spaces, and consumer preferences are evolving rapidly toward health-conscious choices. <br/>  
 To make informed strategic decisions, CodeX needed to understand: <br/> 
 📌 Who consumes energy drinks? (Demographics) <br/>    
@@ -11,7 +12,8 @@ To make informed strategic decisions, CodeX needed to understand: <br/>
 A comprehensive survey was conducted across 10 cities, collecting responses from 10,000 participants to uncover trends, preferences, and actionable insights for effective market expansion. <br/> 
 </p>
  <br/> 
-<p>🎯 Task: Extracting Actionable Insights from Consumer Data <br/> 
+<p>🎯 Task:  <br/> 
+Extracting Actionable Insights from Consumer Data <br/> 
 The primary goal was to analyze survey responses and transform them into data-driven recommendations for CodeX's marketing, pricing, product development, and expansion strategy. The project focused on: <br/> 
 ✅ Understanding purchasing behaviors across metro and Tier 2 cities  <br/>  
 ✅ Identifying consumer expectations for pricing, ingredients, and health benefits  <br/>  
@@ -26,7 +28,8 @@ To accomplish this, I leveraged:  <br/>
 ✔ AI Tools (ChatGPT) – Assisting in pattern recognition & trend analysis <br/>   
 </p>
  <br/> 
-<p>⚙️ Action: Strategic Recommendations Based on Findings <br/>   
+<p>⚙️ Action:  <br/> 
+Strategic Recommendations Based on Findings <br/>   
 Data-driven insights enabled CodeX to refine its marketing and product strategies with precise, targeted actions: <br/> 
 </p>
  <br/> 
@@ -55,7 +58,8 @@ Data-driven insights enabled CodeX to refine its marketing and product strategie
 🔹 Expand micro-influencer partnerships (10K-500K followers) for wider brand reach with authentic consumer engagement.  
 </p>  
  <br/> 
-<p>📊 Result: Key Business Insights and Market Impact  <br/>  
+<p>📊 Result: <br/>  
+Key Business Insights and Market Impact  <br/>  
 Following this analysis, CodeX now has data-backed recommendations to refine marketing, optimize pricing, and improve brand engagement: <br/> 
 📌 Stronger brand appeal among young consumers (15-30 years) <br/>   
 📌 Increased market penetration potential in Tier 2 cities <br/>   
